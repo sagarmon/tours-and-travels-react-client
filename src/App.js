@@ -3,11 +3,11 @@ import Navbar from './components/Navbar/Navbar';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './components/Home/Home';
 import Login from './components/Login/Login';
-import About from './components/About/About';
-import Contact from './components/Contact/Contact';
+// import About from './components/About/About';
+// import Contact from './components/Contact/Contact';
 import NotFound from './components/NotFound/NotFound';
 import AuthProvider from './context/AuthProvider';
-import PremiumServices from './components/PremiumServices/PremiumServices';
+// import PremiumServices from './components/PremiumServices/PremiumServices';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
 import Footer from './components/Footer/Footer';
 import PlaceOrder from './components/PlaceOrder/PlaceOrder';
@@ -53,9 +53,9 @@ function App() {
               <Login></Login>
             </Route>
 
-            <PrivateRoute path="/premiumservices">
+            {/* <PrivateRoute path="/premiumservices">
               <PremiumServices></PremiumServices>
-            </PrivateRoute>
+            </PrivateRoute> */}
 
             {/* <Route path="/booking/:serviceId">
               <Booking></Booking>
