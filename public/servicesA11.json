@@ -1,0 +1,32 @@
+[
+  {
+    "name": "New York Cit",
+    "description": "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers.",
+    "img": "https://i.ibb.co/DkMC5Hd/ny-city.png"
+  },
+  {
+    "name": "Las Vegas",
+    "description": "Las Vegas, often known simply as Vegas, is the 26th-most populous city in the United States, the most populous city in the state of Nevada, and the county seat of Clark County. The city anchors the Las Vegas Valley metropolitan area and is the largest city within the greater Mojave Desert.",
+    "img": "https://i.ibb.co/4MwWrD8/las-vegas.png"
+  },
+  {
+    "name": "Chicago",
+    "description": "Chicago, on Lake Michigan in Illinois, is among the largest cities in the U.S. Famed for its bold architecture, it has a skyline punctuated by skyscrapers such as the iconic John Hancock Center, 1,451-ft. Willis Tower (formerly the Sears Tower) and the neo-Gothic Tribune Tower.",
+    "img": "https://i.ibb.co/dkWrp7F/chicago.png"
+  },
+  {
+    "name": "New Orleans",
+    "description": "New Orleans is a Louisiana city on the Mississippi River, near the Gulf of Mexico. Nicknamed the 'Big Easy,' it's known for its round-the-clock nightlife, vibrant live-music scene and spicy, singular cuisine reflecting its history as a melting pot of French, African and American cultures.",
+    "img": "https://i.ibb.co/WvH5h7h/new-orleans.png"
+  },
+  {
+    "name": "Key West",
+    "description": "Key West, a U.S. island city, is part of the Florida Keys archipelago. It's also Florida's southernmost point, lying roughly 90 miles north of Cuba. Famed for its pastel-hued, conch-style houses, it’s a cruise-ship stop also accessible from the mainland via the Overseas Highway.",
+    "img": "https://i.ibb.co/VwWbRcd/key-west.png"
+  },
+  {
+    "name": "Charleston",
+    "description": "Charleston, the South Carolina port city founded in 1670, is defined by its cobblestone streets, horse-drawn carriages and pastel antebellum houses, particularly in the elegant French Quarter and Battery districts.",
+    "img": "https://i.ibb.co/fC3f2np/charleston.png"
+  }
+]

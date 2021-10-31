@@ -1,0 +1,20 @@
+[
+  {
+    "id": "st001",
+    "name": "Premium Yoga",
+    "description": "Yoga is a group of physical, mental, and spiritual practices or disciplines that originated in ancient India, aimed at controlling and stilling the mind.",
+    "img": "https://i.ibb.co/30NN9Nw/premium1.jpg"
+  },
+  {
+    "id": "st002",
+    "name": "Premium Gym",
+    "description": "A form of high intensity interval training, Premium Gym helps reach your desired fitness goal to another level.",
+    "img": "https://i.ibb.co/qgtqGXc/premium2.jpg"
+  },
+  {
+    "id": "st003",
+    "name": "Premium Treadmills",
+    "description": "Our Premium Treadmills, generally used for walking, running, or climbing while staying in the same place, take your fitness goals ever further.",
+    "img": "https://i.ibb.co/QFn5yyM/premium3v2.png"
+  }
+]

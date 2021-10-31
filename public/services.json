@@ -1,0 +1,38 @@
+[
+  {
+    "id": "st001",
+    "name": "Treadmills",
+    "description": "A treadmill is a device generally used for walking, running, or climbing while staying in the same place.",
+    "img": "https://i.ibb.co/Z1bWTFR/service1.jpg"
+  },
+  {
+    "id": "st002",
+    "name": "Gambaru Crossfit",
+    "description": "A form of high intensity interval training, CrossFit is a strength and conditioning workout that is made up of functional movement performed at a high intensity level.",
+    "img": "https://i.ibb.co/PYFWcpc/service2.jpg"
+  },
+  {
+    "id": "st003",
+    "name": "Barbell",
+    "description": "A barbell is a piece of exercise equipment used in weight training, bodybuilding, weightlifting and powerlifting, consisting of a long bar, usually with weights attached at each end.",
+    "img": "https://i.ibb.co/ctHpBNZ/service3.jpg"
+  },
+  {
+    "id": "st004",
+    "name": "Pelvic tilts",
+    "description": "The pelvic tilt exercise can release tight back muscles and keep them flexible. To perform this lower back flexibility exercise: Lie back on the floor with knees bent and feet flat, keeping the arms by the sides. Gently arch the lower back and push the stomach out. Hold for 5 seconds, then relax.",
+    "img": "https://i.ibb.co/JcSFbT4/service4.jpg"
+  },
+  {
+    "id": "st005",
+    "name": "Crossfit",
+    "description": "A form of high intensity interval training, CrossFit is a strength and conditioning workout that is made up of functional movement performed at a high intensity level.",
+    "img": "https://i.ibb.co/F3J3j1z/service5.jpg"
+  },
+  {
+    "id": "st006",
+    "name": "Squat",
+    "description": "A squat is a strength exercise in which the trainee lowers their hips from a standing position and then stands back up.",
+    "img": "https://i.ibb.co/tLHQZ3D/service6.jpg"
+  }
+]
