@@ -10,7 +10,7 @@ const Navbar = () => {
         <div>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container">
-                    <Link className="navbar-brand me-5" to="/home">Sagar's Healthcare</Link>
+                    <Link className="navbar-brand me-5" to="/home">Sagar's Tours & Travels</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -31,9 +31,9 @@ const Navbar = () => {
                             {/* <li className="nav-item">
                                 <Link className="nav-link me-3" aria-current="page" to="/contact">Contact Us</Link>
                             </li> */}
-                            <li className="nav-item">
+                            {/* <li className="nav-item">
                                 <Link className="nav-link me-3" aria-current="page" to="/premiumservices">Premium Services</Link>
-                            </li>
+                            </li> */}
                             {/* <li className="nav-item">
                                 <Link className="nav-link" aria-current="page" to="/login">Login</Link>
                             </li> */}

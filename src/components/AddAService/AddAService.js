@@ -18,7 +18,7 @@ const AddAService = () => {
     };
 
     return (
-        <div className="addaservice-form">
+        <div className="addaservice-form mt-5">
             <h2>Add A Service</h2>
             <form onSubmit={handleSubmit(onSubmit)}>
                 {/* register your input into the hook by invoking the "register" function */}
