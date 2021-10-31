@@ -23,11 +23,14 @@ const Navbar = () => {
                                 <Link className="nav-link me-3" aria-current="page" to="/placeorder">Place Order</Link>
                             </li>
                             <li className="nav-item">
+                                <Link className="nav-link me-3" aria-current="page" to="/addaservice">Add A Service</Link>
+                            </li>
+                            {/* <li className="nav-item">
                                 <Link className="nav-link me-3" aria-current="page" to="/about">About Us</Link>
-                            </li>
-                            <li className="nav-item">
+                            </li> */}
+                            {/* <li className="nav-item">
                                 <Link className="nav-link me-3" aria-current="page" to="/contact">Contact Us</Link>
-                            </li>
+                            </li> */}
                             <li className="nav-item">
                                 <Link className="nav-link me-3" aria-current="page" to="/premiumservices">Premium Services</Link>
                             </li>

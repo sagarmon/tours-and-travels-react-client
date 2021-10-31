@@ -11,6 +11,7 @@ import PremiumServices from './components/PremiumServices/PremiumServices';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
 import Footer from './components/Footer/Footer';
 import PlaceOrder from './components/PlaceOrder/PlaceOrder';
+import AddAService from './components/AddAService/AddAService';
 
 function App() {
   return (
@@ -36,13 +37,17 @@ function App() {
               <PlaceOrder></PlaceOrder>
             </PrivateRoute>
 
-            <PrivateRoute path="/about">
+            <PrivateRoute path="/addaservice">
+              <AddAService></AddAService>
+            </PrivateRoute>
+
+            {/* <PrivateRoute path="/about">
               <About></About>
             </PrivateRoute>
 
             <PrivateRoute path="/contact">
               <Contact></Contact>
-            </PrivateRoute>
+            </PrivateRoute> */}
 
             <Route path="/login">
               <Login></Login>
